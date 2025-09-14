@@ -1,0 +1,122 @@
+{
+  "users": [
+    "9ac51874-f7f0-4627-8425-0f1a3e03e4b1",
+    "9b78cd0c-ec0d-4b77-805a-2fb70539a701"
+  ],
+  "usage": [
+    {
+      "userId": "9ac51874-f7f0-4627-8425-0f1a3e03e4b1",
+      "date": "2025-09-09",
+      "domain": "chatgpt.com",
+      "seconds": 2787
+    },
+    {
+      "userId": "9ac51874-f7f0-4627-8425-0f1a3e03e4b1",
+      "date": "2025-09-09",
+      "domain": "extensions",
+      "seconds": 987
+    },
+    {
+      "userId": "9ac51874-f7f0-4627-8425-0f1a3e03e4b1",
+      "date": "2025-09-09",
+      "domain": "localhost",
+      "seconds": 383
+    },
+    {
+      "userId": "9ac51874-f7f0-4627-8425-0f1a3e03e4b1",
+      "date": "2025-09-09",
+      "domain": "management",
+      "seconds": 5
+    },
+    {
+      "userId": "9ac51874-f7f0-4627-8425-0f1a3e03e4b1",
+      "date": "2025-09-09",
+      "domain": "newtab",
+      "seconds": 27
+    },
+    {
+      "userId": "9ac51874-f7f0-4627-8425-0f1a3e03e4b1",
+      "date": "2025-09-09",
+      "domain": "github.com",
+      "seconds": 4
+    },
+    {
+      "userId": "9ac51874-f7f0-4627-8425-0f1a3e03e4b1",
+      "date": "2025-09-09",
+      "domain": "google.com",
+      "seconds": 2
+    },
+    {
+      "userId": "9ac51874-f7f0-4627-8425-0f1a3e03e4b1",
+      "date": "2025-09-09",
+      "domain": "youtube.com",
+      "seconds": 27
+    },
+    {
+      "userId": "9ac51874-f7f0-4627-8425-0f1a3e03e4b1",
+      "date": "2025-09-09",
+      "domain": "developer.chrome.com",
+      "seconds": 6
+    },
+    {
+      "userId": "9ac51874-f7f0-4627-8425-0f1a3e03e4b1",
+      "date": "2025-09-09",
+      "domain": "facebook.com",
+      "seconds": 3
+    },
+    {
+      "userId": "9b78cd0c-ec0d-4b77-805a-2fb70539a701",
+      "date": "2025-09-11",
+      "domain": "accounts.google.com",
+      "seconds": 43
+    },
+    {
+      "userId": "9b78cd0c-ec0d-4b77-805a-2fb70539a701",
+      "date": "2025-09-11",
+      "domain": "chatgpt.com",
+      "seconds": 2199
+    },
+    {
+      "userId": "9b78cd0c-ec0d-4b77-805a-2fb70539a701",
+      "date": "2025-09-11",
+      "domain": "extensions",
+      "seconds": 570
+    },
+    {
+      "userId": "9b78cd0c-ec0d-4b77-805a-2fb70539a701",
+      "date": "2025-09-11",
+      "domain": "google.com",
+      "seconds": 3
+    },
+    {
+      "userId": "9b78cd0c-ec0d-4b77-805a-2fb70539a701",
+      "date": "2025-09-11",
+      "domain": "localhost",
+      "seconds": 332
+    },
+    {
+      "userId": "9b78cd0c-ec0d-4b77-805a-2fb70539a701",
+      "date": "2025-09-11",
+      "domain": "newtab",
+      "seconds": 27
+    },
+    {
+      "userId": "9b78cd0c-ec0d-4b77-805a-2fb70539a701",
+      "date": "2025-09-11",
+      "domain": "github.com",
+      "seconds": 3
+    },
+    {
+      "userId": "9b78cd0c-ec0d-4b77-805a-2fb70539a701",
+      "date": "2025-09-11",
+      "domain": "mail.google.com",
+      "seconds": 28
+    },
+    {
+      "userId": "9b78cd0c-ec0d-4b77-805a-2fb70539a701",
+      "date": "2025-09-11",
+      "domain": "youtube.com",
+      "seconds": 4
+    }
+  ]
+}

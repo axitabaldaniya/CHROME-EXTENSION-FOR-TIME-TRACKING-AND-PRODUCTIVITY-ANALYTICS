@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>FocusTrack</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="app">
+    <h2>FocusTrack</h2>
+    <div id="summary">
+      <p id="today">Loading...</p>
+      <button id="syncBtn">Sync Now</button>
+    </div>
+    <div id="topSites">
+      <h3>Top Sites</h3>
+      <ul id="sitesList"></ul>
+    </div>
+    <div class="lists">
+      <label>Productive domains (comma-separated)</label>
+      <input id="productiveInput" placeholder="e.g., github.com, stackoverflow.com"/>
+      <label>Unproductive domains (comma-separated)</label>
+      <input id="unproductiveInput" placeholder="e.g., facebook.com, twitter.com"/>
+      <button id="saveLists">Save</button>
+    </div>
+    <small id="hint">Open the extension popup after browsing to see today's summary. Use Sync Now to push data to backend.</small>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
