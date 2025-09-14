@@ -27,3 +27,8 @@ The backend, if implemented, plays a role in storing user activity logs, managin
 The applications of such a tool are diverse. For students, it helps manage study time effectively by minimizing distractions. For employees and freelancers, it supports better time management, ensures deadlines are met, and boosts accountability. For organizations, aggregated data can provide valuable insights into workforce productivity trends, helping managers optimize workflows and provide better support to their teams.
 
 In conclusion, a Chrome Extension for Time Tracking and Productivity Analytics empowers users to take control of their digital habits. By combining time tracking with intelligent analytics, it not only highlights inefficiencies but also guides users toward improved focus and productivity. In a world where digital distractions are abundant, such an extension becomes an essential tool for personal growth, academic success, and professional efficiency.
+
+#output :
+<img width="1470" height="895" alt="Image" src="https://github.com/user-attachments/assets/e1eb2824-99f6-4388-b5ae-c07dda9f5bb8" />
+<img width="1891" height="613" alt="Image" src="https://github.com/user-attachments/assets/2d77356b-8a73-49dd-b223-3b86d1979e67" />
+<img width="451" height="646" alt="Image" src="https://github.com/user-attachments/assets/ecd0ac8c-ceac-4b00-a5a6-d89c34803143" />
